@@ -47,7 +47,7 @@ function openModal(productType) {
     const products = {
         grace: {
             name: 'Grace',
-            image: '../Images/grace_home-removebg-preview.png',
+            image: '../Images/Model_Grace_Red-removebg-preview.png',
             specs: {
                 'MAX SPEED': '< 25 KMPH',
                 'MOTOR MAX POWER': '< 250W',
@@ -58,7 +58,7 @@ function openModal(productType) {
         },
         power: {
             name: 'Power',
-            image: '../Images/power_home-removebg-preview.png',
+            image: '../Images/power-removebg-preview.png',
             specs: {
                 'MAX SPEED': '< 25 KMPH',
                 'MOTOR MAX POWER': '< 250W',
@@ -69,7 +69,7 @@ function openModal(productType) {
         },
         prince: {
             name: 'Prince',
-            image: '../Images/Model_Prince_Blue-removebg-preview (1).png',
+            image: '../Images/Model_Prince_Blue-removebg-preview.png',
             specs: {
                 'MAX SPEED': '< 25 KMPH',
                 'MOTOR MAX POWER': '< 250W',
@@ -80,7 +80,7 @@ function openModal(productType) {
         },
         winner: {
             name: 'Winner',
-            image: '../Images/winner_home-removebg-preview.png',
+            image: '../Images/winner-removebg-preview.png',
             specs: {
                 'MAX SPEED': '< 25 KMPH',
                 'MOTOR MAX POWER': '< 250W',

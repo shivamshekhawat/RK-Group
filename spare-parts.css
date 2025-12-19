@@ -352,7 +352,11 @@ body {
 
 /* Footer */
 .footer {
-    background: #1a1a1a;
+    background: linear-gradient(rgba(26, 26, 26, 0.9), rgba(26, 26, 26, 0.9)), url('Images/Gemini_Generated_Image_b8golf.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: #fff;
     padding: 60px 0 20px;
     margin-top: auto;
